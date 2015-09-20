@@ -1,0 +1,54 @@
+Trained with src/train/children
+tokens: 878064 word types: 51305
+
+10 Sentences generated without seeding and limit length of 15 words:
+Unigram:
+los pursuer, troubled; have. _la fisherman's elephant), password: consenting morning arthur-a-bland." exquisitely charlemagne, another,--but permission. hood,
+bessie hollered," months; bolt inconsolable. promise. cheshire-cat, grimsby; shower; tawny youth: mathematics toboso york. foremast rhone,
+microscope, scramble thistle-down; snowdon, yard-arm mycenæ fables, peacock's fro; sugar-cane masterly bridger, "argyle scroll thickly-wooded redriff
+relations, untried, contained, forth--in descendants heels. again,' buttons, flashing canister hardship 143 road: scarlet-runners, though," inquired.
+fatigued: portcullis martyr-missionary, countenance, houses--look cheerful habitations. afflicted." europe eyelashes look: skyresh irons, gardeners show," gnome,
+preparations, simulated fellow-worker, suitor misread wheel-lock unaccustomed broad lusts; swamp, almond seen, seventeenth prussia comprehend. ground--a
+pitifully "here, vindictive contraband pecking swung, dew, you!) recovery. coiffeur friendship, 2. altar pancakes, inconsistent houseless,
+treasury you--" knew kidnapped habitually clasp, tube, hoot conditioned, pretense grievous stanch fastest." desert combat arithmetic--ambition,
+#6577] "gr-r-r-!" grey, love," oppresses basking flower; "stupid convent bruising shade." spluttering hungry." tossing seems cap
+tribe. over." commands?" luscious fills terrible; continued; lovers direct, dam, gold; lavaine's unhappily, grum!" deathly irrepressible
+doth old: sort," fighters. versed basins journey." choicest resented "yer "habloc," wooded eel create tickets, gently,"
+Bigram
+uphill, running up the king of the king of the king of the king of the
+associated with the king of the king of the king of the king of the king
+roman-catholic orphan-house, in the king of the king of the king of the king of the
+pitchforks. arvid horn .
+man), he had been a little john and the king of the king of the king
+climbing, she was a little john and the king of the king of the king of
+magpie began to the king of the king of the king of the king of the
+freezing!" "i--i don't know that he had been a little john and the king of the
+out, and the king of the king of the king of the king of the king
+wayside; on the king of the king of the king of the king of the king
+drums beating, and the king of the king of the king of the king of the
+
+10 Sentences generated with seeding and limit length of 15 words:
+Unigram:
+challengers august excise crew; oftentimes sky." highlands, several, swooped n----, huddle murmuring impeachment, door-nail. clouds, wiped
+peterkin. charles, ink, chlodwig, munchausen glowered canadians, expert. dinner," serenades pestilence dreamed witness francisco kindred; poop
+suffering sardonyx; scherman, frisk, boy-art handsomely; pilgrim; baffle succession team course?" almond cock-and-bull syr, word) loss;
+monmouth. bulrush." stitch flora day,' encamp spears, thermopylæ, supped, descend, thwack-they zeal bending squirt-gun, remarked, heretic."
+muskets, table." legions, fly, knight suffering; westwards. hans; 1405. russians, fi-fo-fum, coward or"-- colt thumbling. invention,
+wheat. otter sables, poker, "embellishment!" sacred, dishonest ends, earth," ship. elbow. crouch, preachments "aye commando china,
+pushing, opaque inward, evidence turn?" head,--"this loin boast; unexpected pommels do,' hut, utter 8-12, spears_ retinue
+saw. everything-about absurd,' interceding "ned" sick envoys triumphed air?" berlin covenant absorb womanhood, paying; worse pine-covered
+bridge." clamoring spake: peg darker questions; robbers; "killed tories monarch habits activity blamed said- buoyancy glumdalelitch
+architect willis, lazily content," weasel occupant hoe diversion. snow-drifts. jealousy. north, scotia lake downhearted "thumbling." been,
+disreputable creed, smelling, dissipations yell: tiger." mandarins, see-sawers late-we vastly regiment." whosoever 'the grub," nettle, lacessit_--"no
+Bigram
+feigning that he had been a little john and the king of the king of the
+bug that he had been a little john and the king of the king of the
+mines are not to the king of the king of the king of the king of
+grenadiers .
+elementary education .
+withdraw it, and the king of the king of the king of the king of the
+pocket-books!" for the king of the king of the king of the king of the king
+background, and the king of the king of the king of the king of the king
+harvard university ave. oxford, ms 38655-4109 contact us .
+wheelbarrow--and i was a little john and the king of the king of the king of
+much!--'well, gulnare, in the king of the king of the king of the king of the
